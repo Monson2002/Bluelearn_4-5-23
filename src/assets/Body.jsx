@@ -70,7 +70,7 @@ export default function Body() {
                             <div className="mainslider svelte-pj9tj0">
                                 <div className="container svelte-pj9tj0">
                                     <div className="scroll svelte-pj9tj0">
-                                        <div className="card svelte-pj9tj0">
+                                        <div className="card svelte-pj9tj0 flex flex-nowrap overflow-x-auto">
                                             <TilesNewlyAdded/>
                                         </div>
                                     </div>

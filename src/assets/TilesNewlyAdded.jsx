@@ -6,7 +6,7 @@ export default function TilesNewlyAdded() {
         return (
             <>
                 <div
-                    className="flex-initial w-60 h-full border border-gray-300 rounded-lg bg-gray-50 focus:ring-blue-500 focus:border-blue-500 dark:bg-[#171717] dark:border-gray-600 dark:placeholder-gray-400 dark:focus:ring-blue-500 dark:focus:border-blue-500 mb-5 overflow-hidden overflow-x-hidden">
+                    className="flex-initial w-60 h-full border border-gray-300 rounded-lg bg-gray-50 focus:ring-blue-500 focus:border-blue-500 dark:bg-[#171717] dark:border-gray-600 dark:placeholder-gray-400 dark:focus:ring-blue-500 dark:focus:border-blue-500 mb-5 mr-7" style={{flex:"0 0 auto"}}>
                     <img src={item.imgSrc} alt="Logo"
                         className="h-32 w-32 mx-auto my-1 mt-5 rounded-md" />
                     <div
